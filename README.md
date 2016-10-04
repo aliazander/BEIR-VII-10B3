@@ -8,3 +8,4 @@ The .csv file includes "Life shortening data from Tables 1, 2, and 3 of Storer a
 - If doses are equal (even if dose rate is not equal) average values
 - Linear regression is weighted by 1/(standard deviation)^2
 
+The .R file includes my entire code for reproducing the graph in figure 10B-3. There are comments to help follow along.
