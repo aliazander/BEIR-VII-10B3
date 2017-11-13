@@ -1,0 +1,644 @@
+"Data from the Janus studies generated on  October 19, 2011 .  See http://janus.northwestern.edu/janus2/data.php for more information."
+"observation_category","sampled","micro_code","location","metastatic_to","description","janus_description","snomed_topography","snomed_morphology","MPath","MAnat","DiseaseRodCode","e_group","f_group","h_group"
+"micro","1","TACC","adrenal","","cortical carcinoma adrenal","","T931000","M801030","549","116","260","TADR",",PR_T,EP_T,TAC_,MAPU,ENDO",",PR_T,EP_T,TCAR,TADR,TAC_"
+"micro","1","TACO","adrenal","","cortical adenoma adrenal cortex","","T931000","M814000","270","116","262","TADR",",PR_T,EP_T,TAC_,MAPU,ENDO",",PR_T,EP_T,TADR,TAC_"
+"micro","1","TANS","adrenal","","medullary neuroblastoma/ ganglioneuroma adrenal","","T932000","M950030","","","286","TADR",",PR_T,CT_T,TAM_,MAPU,ENDO",",PR_T,CT_T,TADR,TAM_"
+"micro","1","TAPS","adrenal","","medullary pheochromocytoma adrenal","","T932000","M870000","","","261","TADR",",PR_T,CT_T,TAM_,MAPU,ENDO",",PR_T,CT_T,TADR,TAM_"
+"micro","1","TAUO","adrenal","","tumor(unknown cell type) adrenal","","T930000","M800010","218","116","259","TADR",",PR_T,EP_T,TAC_,MAPU,ENDO",",PR_T,EP_T,TADR,TAC_"
+"micro","1","TAVO","adrenal","","vascular tumor adrenal","","T930000","M912000","","","397","TVAS",",PR_T,CT_T,T_VO,TVAS",",PR_T,CT_T"
+"micro","1","MAZG","adrenal","","metaplasia zona glomerulosa adrenal","","T931100","M730000","160","3","603","0_NT","",""
+"micro","1","MAZX","adrenal","","fibrosis of reticular zone (x-zone) adrenal cortex","","T931000","M490000","181","3","614","0_NT","",""
+"micro","1","MABA","adrenal","","ceroid or brown atrophy of adrenal","","T931000","M580000","127","3","610","0_NT","",""
+"micro","1","TCWA","adrenal  ","conn. tiss. met. site specified in comment ","adrenal origin; conn. tiss. met. site specified in comment","","T1X2000","M950030","","","","TWEP","",",T_W_"
+"micro","1","THWA","adrenal  ","met. to liver ","adrenal origin; met. to liver","","T560000","M950030","","","-1","TWEP","",",T_W_"
+"micro","1","TKWA","adrenal  ","met. to kidney ","adrenal origin; met. to kidney","","T710000","M950030","","","-1","TWEP","",",TKW_,T_W_"
+"micro","1","TLWA","adrenal  ","lymphoret. tiss. met. site specified in comt ","adrenal origin; lymphoret. tiss. met. site specified in comt","","T050000","M950030","","","-1","TWEP","",",T_W_"
+"micro","1","TMWA","adrenal  ","muscle met. site spec. in comment ","adrenal origin; muscle met. site spec. in comment","","T130010","M950030","","","-1","TWEP","",",T_W_"
+"micro","1","TRWA","adrenal  ","met. to lung ","adrenal origin; met. to lung","","T280000","M950030","","","-1","TWEP","",",TRW_,T_W_"
+"micro","1","TYWA","adrenal  ","met. to heart ","adrenal origin; met. to heart","","T320000","M950030","","","-1","TWEP","",",T_W_"
+"micro","","TCWB","bone","conn.tiss. met. site spec. in ct ","bone origin spec. in comm.; conn.tiss. met. site spec. in ct","","T1X2000","M918030","","","","TWCN","",",T_WB,T_W_"
+"micro","","TEWB","bone","met. to spleen ","bone origin spec. in comment; met. to spleen","","T070000","M918030","","","","TWCN","",",T_WB,T_W_"
+"micro","","THWB","bone","met. to liver ","bone origin spec.in comm.; met. to liver","","T560000","M918030","","","-1","TWCN","",",T_WB,T_W_"
+"micro","","TIWB","bone","gi tract met. site spec. in com. ","bone origin spec. in comm.; gi tract met. site spec. in com.","","T501000","M918030","","","-1","TWCN","",",T_WB,T_W_"
+"micro","","TKWB","bone","met. to kidney ","bone origin spec. in comm.; met. to kidney","","T710000","M918030","","","-1","TWCN","",",T_WB,TKW_,T_W_"
+"micro","","TLWB","bone","lymphoret.tiss. met. site spec.. ","bone origin spec. in comm.; lymphoret.tiss. met. site spec..","","T050000","M918030","","","-1","TWCN","",",T_WB,T_W_"
+"micro","","TMWB","bone","muscle met. site spec. in comment ","bone origin in comment; muscle met. site spec. in comment","","T130010","M922030","","","-1","TWCN","",",T_WB,T_W_"
+"micro","","TNWB","bone","nervous sys. met. site spec. in comm. ","bone origin in comm.; nervous sys. met. site spec. in comm.","","TX00000","M918030","","","-1","TWCN","",",T_WB,T_W_"
+"micro","","TOWB","bone","met. to ovary ","bone origin in comm.; met. to ovary","","T870000","M918030","","","-1","TWCN","",",T_WB,T_W_"
+"micro","","TRWB","bone","met. to lung ","bone origin in comm.; met. to lung","","T280000","M918030","","","-1","TWCN","",",T_WB,TRW_,T_W_"
+"micro","","TSWB","bone","skin met. site specified in comment ","bone origin in comm.; skin met. site specified in comment","","T010000","M918030","","","-1","TWCN","",",T_WB,T_W_"
+"micro","","TXWB","bone","rare tiss. met. site spec. in comm. ","bone origin in comm.; rare tiss. met. site spec. in comm.","","T000030","M918030","","","-1","TWCN","",",T_WB,T_W_"
+"micro","","TYWB","bone","met. to heart ","bone origin in comm.; met. to heart","","T320000","M918030","","","-1","TWCN","",",T_WB,T_W_"
+"micro","","TBCS","bone","","chondrosarcoma bone site specified in comment","","T1X5000","M922030","","","323","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T,TSAR,TBON"
+"micro","","TBFS","bone","","fibrosarcoma bone site specified in comment","","T1X5000","M881030","551","18","325","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR,TFSA,TBON"
+"micro","","TBOO","bone","","osteoma bone site spec. in comment","","T1X5000","M918000","","","338","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T,TBON"
+"micro","","TBOS","bone","","osteosarcoma bone site specified in comment","","T1X5000","M918030","","","320","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T,TSAR,TBON"
+"micro","","TBUS","bone","","odontogenic sarcoma bone site specified in comment","","T1X5000","M927030","551","341","41","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T,TSAR,TBON"
+"micro","","MBMZ","bone","","atrophic or aplastic bone marrow","","T060000","M754000","127","134","613","0_NT","",""
+"micro","","TEWC","connective tissue","met. to spleen ","connective tissue origin in comment; met. to spleen","","T070000","M912030","","","","TWCN","",",T_W_"
+"micro","","TGWC","connective tissue","met. to harderian gland ","connective tissue origin in comment; met. to harderian gland","","TXX8360","M881030","","","-1","TWCN","",",T_W_"
+"micro","","THWC","connective tissue","met. to liver ","connective tissue origin in comment; met. to liver","","T560000","M912030","","","-1","TWCN","",",T_W_"
+"micro","","TKWC","connective tissue","met. to kidney ","connective tissue origin in comment; met. to kidney","","T710000","M912030","","","-1","TWCN","",",TKW_,T_W_"
+"micro","","TLWC","connective tissue","lymphoret.tiss. met. s. ","connective tissue origin in comment; lymphoret.tiss. met. s.","","T050000","M912030","","","-1","TWCN","",",T_W_"
+"micro","","TMWC","connective tissue","muscle met. site specified in comme ","conn tiss origin in comm.;muscle met. site specified in comme","","T130010","N912030","","","-1","TWCN","",",T_W_"
+"micro","","TNWC","connective tissue","nerv. sys. met. site s. ","connective tissue origin in comment; nerv. sys. met. site s.","","TX00000","M912030","","","-1","TWCN","",",T_W_"
+"micro","","TRWC","connective tissue","met. to lung ","connective tissue origin in comment; met. to lung","","T280000","M912030","","","-1","TWCN","",",TRW_,T_W_"
+"micro","","TSWC","connective tissue","skin met. site spec.in c. ","connective tissue origin in comm.; skin met. site spec.in c.","","T010000","M912030","","","-1","TWCN","",",T_W_"
+"micro","","TXWC","connective tissue","rare tiss. met. site spec. ","connective tissue origin in comm.;rare tiss. met. site spec.","","T000030","M912030","","","-1","TWCN","",",T_W_"
+"micro","","TYWC","connective tissue","met. to heart ","connective tissue origin in comment; met. to heart","","T320000","M912030","","","-1","TWCN","",",T_W_"
+"micro","","TCFO","connective tissue","","fibroma conn. tiss. site spec. in comment","","T1X2000","M881000","","","448","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,T_FO"
+"micro","","TCFS","connective tissue","","fibrosarcoma conn. tiss. site specified in comment","","T1X2000","M881030","408","3","411","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR,TFSA"
+"micro","","TCMS","connective tissue","","mast cell tumor connective tissue site specified in comment","","T1X2000","M974010","507","3","449","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T,TSAR"
+"micro","","TCOO","connective tissue","","osteoma conn. tissue site specified in comment","","T1X2000","M918000","","","338","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T"
+"micro","","TCSS","connective tissue","","undifferentiated connective tissue sarcoma site spec. in co.","","T1X2000","M880530","","","410","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR"
+"micro","","TCVO","connective tissue","","hemangioma, benign; conn. tiss. site specified in comment","","T1X2000","M912000","","","397","TVAS",",PR_T,CT_T,T_VO,TVAS",",PR_T,CT_T"
+"micro","","TCVS","connective tissue","","hemangioendothelioma (angiosarcoma), malignant conn.tiss. st","","T1X2000","M912030","","","393","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR"
+"micro","","MCIG","distributed","","septicemia general condition","","T000100","D008000","213","3","510","0_NT","",""
+"micro","","MATA","distributed","","amyloidosis, one or more organs involved","","T000200","M551000","","","604","MAMY","",""
+"micro","","MMEI","ear","","middle ear infection (vestibular disease) acute","","TXY3000","DX58000","","","512","0_NT","",""
+"micro","","MPTH","endocrine system","","hypertrophy, hyperplasia of parathyroid gland","","T978000","M720000","","","593","0_NT","",""
+"micro","","MGGF","eyes","","fibrosis, harderian gland","","TXX8360","M490000","181","3","614","0_NT","",""
+"micro","","MGAA","eyes","","acute inflammation, harderian gland","","TXX8360","M410000","","","512","0_NT","",""
+"micro","","MGAC","eyes","","chronic inflammation, harderian gland","","TXX8360","M430000","","","513","0_NT","",""
+"micro","","TAWI","GI tract","met. to adrenal ","gi tract origin in comment; met. to adrenal","","T930000","M814030","","","","TWEP","",",T_W_"
+"micro","","TCWI","GI tract","conn.tiss. met. site spec. in c. ","gi tract origin in comment; conn.tiss. met. site spec. in c.","","T1X2000","M881030","","","","TWEP","",",T_W_"
+"micro","","THWI","GI tract","met. to liver ","gi tract origin in comment; met. to liver","","T560000","M814030","","","-1","TWEP","",",T_W_"
+"micro","","TKWI","GI tract","met. to kidney ","gi tract origin in comment; met. to kidney","","T710000","M814030","","","-1","TWEP","",",TKW_,T_W_"
+"micro","","TLWI","GI tract","lymphoret.tiss. met. site spec. in. ","gi tract origin in comm.;lymphoret.tiss. met. site spec. in.","","T050000","M912030","","","-1","TWEP","",",T_W_"
+"micro","","TRWI","GI tract","met. to lung ","gi tract origin in comment; met. to lung","","T280000","M881030","","","-1","TWEP","",",TRW_,T_W_"
+"micro","","TXWI","GI tract","rare tiss. met. site spec. in com. ","gi tract origin in comm.; rare tiss. met. site spec. in com.","","T000030","M912030","","","-1","TWEP","",",T_W_"
+"micro","","TIAC","GI tract","","adenocarcinoma gi tract; site specified in comment","","T501000","M814030","218","328","60","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,TCAR,T_GI"
+"micro","","TIAO","GI tract","","adenoma gi tract site spec. in comment","","T501000","M814000","549","328","61","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,T_GI"
+"micro","","TIEC","GI tract","","squamous cell carcinoma gi tract; site specified in comment","","T501000","M807030","549","328","61","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,TCAR,T_GI"
+"micro","","TIFO","GI tract","","fibroma gi tract site spec. in comment","","T501000","M881000","218","328","60","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,T_FO,T_GI"
+"micro","","TIFS","GI tract","","fibrosarcoma gi tract site specified in comment","","T501000","M881030","551","328","63","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR,TFSA,T_GI"
+"micro","","TISC","GI tract","","undifferentiated carcinoma gi tract; site spec. in comment","","T501000","M802030","549","328","61","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,TCAR,T_GI"
+"micro","","TISO","GI tract","","leiomyoma gi tract site specified in comment","","T501000","M889000","218","328","64","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T,T_GI"
+"micro","","TISS","GI tract","","leiomyosarcoma gi tract site spec. in comment","","T501000","M889030","","","418","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T,TSAR,T_GI"
+"micro","","TIVO","GI tract","","hemangioma, benign; gi tract site specified in comment","","T501000","M912000","","","397","",",PR_T,CT_T,TVAS",",PR_T,CT_T,T_GI"
+"micro","","TIVS","GI tract","","hemangioendothelioma(angiosarcoma) malig. gi tract site spet","","T501000","M912030","","","393","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR,T_GI"
+"micro","","TIPO","GI tract","","polyps gi tract site specified in comment","","T501000","M768000","491","323","53","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,T_GI"
+"micro","","MICY","GI tract","","cyst intestine; site specified in comment","","T505000","M334000","","","541","0_NT","",""
+"micro","","MCMZ","GI tract","","parasite, metazoan; colon","","T670000","E430200","","","541","0_NT","",""
+"micro","","MCLC","GI tract","","colitis, chronic","","T670000","M430000","","","513","0_NT","",""
+"micro","","MIIA","GI tract","","enteritis, acute; site specified in comment","","T505000","M410000","212","328","520","0_NT","",""
+"micro","","MIIC","GI tract","","enteritis, chronic; site specified in comment","","T505000","M430000","212","328","520","0_NT","",""
+"micro","","MSAA","GI tract","","sialadenitis, acute","","T550000","M410000","","","512","0_NT","",""
+"micro","","MSAC","GI tract","","sialadenitis, chronic","","T550000","M430000","","","513","0_NT","",""
+"micro","","MIFC","GI tract","","fatty change intestine; site specified in comment","","T505000","M500800","","","541","0_NT","",""
+"micro","","TGAC","harderian gland","","adenocarcinoma harderian gland","","TXX8360","M814030","","","311","TGA ",",PR_T,EP_T,ENDO",",PR_T,EP_T,TCAR"
+"micro","","TGAO","harderian gland","","papillary cyst adenoma harderian gland","","TXX8360","M845000","","","312","TGA ",",PR_T,EP_T,ENDO",",PR_T,EP_T"
+"micro","","TGSC","harderian gland","","undifferentiated  tumor (carcinoma) harderian gland","","TXX8360","M800010","218","1247","310","TGA ",",PR_T,EP_T,ENDO",",PR_T,EP_T"
+"micro","","TBWG","harderian gland  ","bone met. site spec. in comment ","harderian gland origin; bone met. site spec. in comment","","T1X5000","M814030","","","","T_WG","",",T_WG,T_W_"
+"micro","","TCWG","harderian gland  ","conn. tiss. met. site spec. in commt ","harderian gland origin; conn. tiss. met. site spec. in commt","","T1X2000","M814030","","","","T_WG","",",T_WG,T_W_"
+"micro","","THWG","harderian gland  ","met. to liver ","harderian gland origin; met. to liver","","T560000","M814030","","","-1","T_WG","",",T_WG,T_W_"
+"micro","","TKWG","harderian gland  ","met. to kidney ","harderian gland origin; met. to kidney","","T710000","M814030","","","-1","T_WG","",",T_WG,TKW_,T_W_"
+"micro","","TLWG","harderian gland  ","lymphoret. met. site spec. in comm. ","harderian gland origin; lymphoret. met. site spec. in comm.","","T050000","M814030","","","-1","T_WG","",",T_WG,T_W_"
+"micro","","TMWG","harderian gland  ","muscle met. site specified in comm. ","harderian gland origin; muscle met. site specified in comm.","","T130010","M845000","","","-1","T_WG","",",T_WG,T_W_"
+"micro","","TNWG","harderian gland  ","nerv. sys. met. site spec. in comm. ","harderian gland origin; nerv. sys. met. site spec. in comm.","","TX00000","M814030","","","-1","T_WG","",",T_WG,T_W_"
+"micro","","TRWG","harderian gland  ","met. to lung ","harderian gland origin; met. to lung","","T280000","M845000","","","-1","T_WG","",",T_WG,TRW_,T_W_"
+"micro","","TXWG","harderian gland  ","rare tiss. met. site spec. in comm. ","harderian gland origin; rare tiss. met. site spec. in comm.","","T000030","M814030","","","-1","T_WG","",",T_WG,T_W_"
+"micro","","TYWG","harderian gland  ","met. to heart ","harderian gland origin; met. to heart","","T320000","M814030","","","-1","T_WG","",",T_WG,T_W_"
+"micro","","DH1","head","","eye missing
+","","TXX0000","FY44800","","","747","","",""
+"micro","","DH2","head","","2 eyes missing","","TXX1800","FY44800","","","747","","",""
+"micro","","DHE","head","","head, neck missing","","TY00000","FY44800","","","747","","",""
+"micro","1","TYCS","heart","","chondrosarcoma heart","","T320000","M922030","511","72","390","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T,TSAR"
+"micro","1","TYFS","heart","","fibrosarcoma heart","","T320000","M881030","511","72","390","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR,TFSA"
+"micro","1","TYRS","heart","","rhabdomyosarcoma heart","","T320000","M890030","428","15","327","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T,TSAR"
+"micro","1","TYVS","heart","","angiosarcoma heart","","T320000","M912030","","","393","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR"
+"micro","1","MECA","heart","","acute endocarditis","","T340000","M410000","212","76","529","MCVD","",""
+"micro","1","MECC","heart","","chronic endocarditis (valvular)","","T340000","M430000","214","76","530","MCVD","",""
+"micro","1","MMCA","heart","","acute myocarditis","","T330100","M410000","212","164","534","MCVD","",""
+"micro","1","MMCC","heart","","chronic myocarditis","","T330100","M430000","212","164","534","MCVD","",""
+"micro","1","MPCA","heart","","acute pericarditis","","T310000","M410000","212","99","533","MCVD","",""
+"micro","1","MPCC","heart","","chronic pericarditis","","T310000","M430000","212","99","533","MCVD","",""
+"micro","1","MPAN","heart","","pan / polyarteritis nodosa","","T400000","D732100","","","595","MCVD","",""
+"micro","1","TLWY","heart  ","lymphoret. tiss. met. site spec. in comment ","heart origin; lymphoret. tiss. met. site spec. in comment","","T050000","M890030","","","-1","TWCN","",",T_W_"
+"micro","1","TRWY","heart  ","met. to lung ","heart origin; met. to lung","","T280000","M918030","","","-1","TWCN","",",TRW_,T_W_"
+"micro","1","TKAA","kidney","","renal adenoma","","T710000","M814000","418","368","154","TKID",",PR_T,EP_T,KLOG",",PR_T,EP_T,TK__"
+"micro","1","TKAC","kidney","","renal tubular tumor; adenocarcinoma","","T710000","M814030","549","368","151","TKID",",PR_T,EP_T,KLOG",",PR_T,EP_T,TCAR,TK__"
+"micro","1","TKCA","kidney","","cyst adenoma kidney","","T710000","M844000","418","368","154","TKID",",PR_T,EP_T,KLOG",",PR_T,EP_T,TK__"
+"micro","1","TKFS","kidney","","fibrosarcoma kidney","","T710000","M881030","549","368","151","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR,TFSA"
+"micro","1","TKPA","kidney","","renal papillary cystadenoma","","T710000","M845000","418","368","154","TKID",",PR_T,EP_T,KLOG",",PR_T,EP_T,TK__"
+"micro","1","TKTC","kidney","","renal pelvic transitional-cell carcinoma","","T720000","M812030","218","368","150","TKID",",PR_T,EP_T,KLOG",",PR_T,EP_T,TCAR,TK__"
+"micro","1","TKVS","kidney","","hemangioendothelioma (angiosarcoma) kidney","","T710000","M912030","551","368","152","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR"
+"micro","1","MINA","kidney","","interstitial nephritis, acute","","T710400","M410000","212","368","535","MCRD","",""
+"micro","1","MINC","kidney","","interstitial nephritis, chronic","","T710400","M430000","212","368","535","MCRD","",""
+"micro","1","MCRD","kidney","","chronic renal disease","","T710000","M430000","1","368","555","MCRD","",""
+"micro","1","MROD","kidney","","renal osteodystrophy","","T1X5000","D656100","","","536","0_NT","",""
+"micro","1","TAWK","kidney  ","met. to adrenal ","kidney origin; met. to adrenal","","T930000","M814030","","","","TWEP","",",T_WK,T_W_"
+"micro","1","TCWK","kidney  ","conn. tiss. met. site spec. in comment ","kidney origin; conn. tiss. met. site spec. in comment","","T1X2000","M814030","","","","TWEP","",",T_WK,T_W_"
+"micro","1","TEWK","kidney  ","met. to spleen ","kidney origin; met. to spleen","","T070000","M814030","","","","TWEP","",",T_WK,T_W_"
+"micro","1","THWK","kidney  ","met. to liver ","kidney origin; met. to liver","","T560000","M814030","","","-1","TWEP","",",T_WK,T_W_"
+"micro","1","TLWK","kidney  ","lymphoret. tiss. met. site spec. in comment ","kidney origin; lymphoret. tiss. met. site spec. in comment","","T050000","M814030","","","-1","TWEP","",",T_WK,T_W_"
+"micro","1","TMWK","kidney  ","muscle met. site specified in comment ","kidney origin; muscle met. site specified in comment","","T130010","M844000","","","-1","TWEP","",",T_WK,T_W_"
+"micro","1","TRWK","kidney  ","met. to lung ","kidney origin; met. to lung","","T280000","M814030","","","-1","TWEP","",",T_WK,TRW_,T_W_"
+"micro","1","TXWK","kidney  ","rare tiss. met. site spec. in comment ","kidney origin; rare tiss. met. site spec. in comment","","T000030","M844000","","","-1","TWEP","",",T_WK,T_W_"
+"micro","1","TYWK","kidney  ","met. to heart ","kidney origin; met. to heart","","T320000","M814030","","","-1","TWEP","",",T_WK,T_W_"
+"micro","1","THAA","liver","","adenoma (hepatoma)","","T560000","M817000","","","87","TLIV",",PR_T,EP_T,THA_,KLOG",",PR_T,EP_T,THA_"
+"micro","1","THAC","liver","","hepatocarcinoma","","T560000","M817030","","","81","TLIV",",PR_T,EP_T,THA_,KLOG",",PR_T,EP_T,TCAR,THA_"
+"micro","1","THAO","liver","","neoplastic nodule (hyperplastic nodule) liver","","T560000","M720300","484","358","580","TLIV",",PR_T,EP_T,THA_,KLOG",",PR_T,EP_T,THA_"
+"micro","1","THCC","liver","","cholangiocarcinoma liver","","T560000","M816030","354","358","85","TLIV",",PR_T,EP_T,THC_,KLOG",",PR_T,EP_T,TCAR"
+"micro","1","THCO","liver","","cholangioma (cholangiomatosis) liver","","T560000","M816000","543","358","88","TLIV",",PR_T,EP_T,THC_,KLOG",",PR_T,EP_T"
+"micro","1","THFO","liver","","fibroma liver","","T560000","M881000","","","448","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,T_FO"
+"micro","1","THVO","liver","","hemangioma liver","","T560000","M912000","235","358","89","TVAS",",PR_T,CT_T,T_VO,TVAS",",PR_T,CT_T"
+"micro","1","THVS","liver","","hemangioendothelioma (angiosarcoma) liver","","T560000","M912030","242","358","84","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR"
+"micro","1","THWY","liver","","heart origin; met to liver","","T560000","M912030","","","-1","TWCN","",",T_W_"
+"micro","1","MHCY","liver","","hepatic cyst","","T560000","M334000","","","542","MHEP","",""
+"micro","1","MHCN","liver","","hepatitis, coagulative - focal","","T560000","M400600","212","358","521","MHEP","",""
+"micro","1","MHIA","liver","","hepatitis, acute","","T560000","M410000","212","358","521","MHEP","",""
+"micro","1","MHIC","liver","","hepatitis, chronic","","T560000","M430000","212","358","521","MHEP","",""
+"micro","1","MHIT","liver","","hepatitis, toxic","","T560000","M400500","212","358","521","MHEP","",""
+"micro","1","MHHD","liver","","hepatic, hydropic degeneration","","T560000","M500700","","","542","MHEP","",""
+"micro","1","MHLD","liver","","lipidosis (fatty metamorphosis) liver","","T560000","M500800","","","542","MHEP","",""
+"micro","1","TCWH","liver  ","conn tiss. met. site spec. in comment ","liver origin; conn tiss. met. site spec. in comment","","T1X2000","M912030","","","","TWEP","",",T_W_"
+"micro","1","TEWH","liver  ","met. to spleen ","liver origin; met. to spleen","","T070000","M912030","","","","TWEP","",",T_W_"
+"micro","1","TKWH","liver  ","met. to kidney ","liver origin; met. to kidney","","T710000","M817030","","","-1","TWEP","",",TKW_,T_W_"
+"micro","1","TLWH","liver  ","lymphoret. tiss. met. site spec. in comment ","liver origin; lymphoret. tiss. met. site spec. in comment","","T050000","M817030","","","-1","TWEP","",",T_W_"
+"micro","1","TMWH","liver  ","muscle met. site spec. in comment ","liver origin; muscle met. site spec. in comment","","T130010","M912030","","","-1","TWEP","",",T_W_"
+"micro","1","TRWH","liver  ","met. to lung ","liver origin; met. to lung","","T280000","M912030","","","-1","TWEP","",",TRW_,T_W_"
+"micro","1","TYWH","liver  ","met. to heart ","liver origin; met. to heart","","T320000","M912030","","","-1","TWEP","",",T_W_"
+"micro","1","TRAA","lung","","alveologenic tumor, benign lung","","T280000","M814000","","","131","TADN",",PR_T,EP_T",",PR_T,EP_T,TRAA"
+"micro","1","TRAC","lung","","alveologenic tumor, malignant lung","","T280000","M814030","268","415","112","TADN",",PR_T,EP_T",",PR_T,EP_T,TCAR,TRAC"
+"micro","1","TRCO","lung","","cystadenoma lung","","T280000","M844000","265","415","136","TADN",",PR_T,EP_T",",PR_T,EP_T"
+"micro","1","TRVS","lung","","vascular tumor (angiosarcoma) lung","","T280000","M912030","513","415","121","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR"
+"micro","1","TLFS","lymphoreticular","","fibrosarcoma lymph node site specified in comment","","T080000","M881030","408","3","411","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR,TFSA"
+"micro","1","TLHL","lymphoreticular","","histiocytic leukemia lymphoreticular tissue","","T050000","M989030","513","2434","367","LR_T",",PR_T,CT_T,LR_T,TLOT",",PR_T,CT_T,LR_T,TLLE"
+"micro","1","TLHS","lymphoreticular","","histiocytic lymphoma (rct type a) lymphoret. tissue","","T050000","M964030","513","2434","367","LR_T",",PR_T,CT_T,LR_T,TLHS",",PR_T,CT_T,LR_T,TLRC,TSAR"
+"micro","1","TLLL","lymphoreticular","","lymphocytic / lymphoblastic leukemia; lymphoreticular tissue","","T050000","M982630","513","2434","361","LR_T",",PR_T,CT_T,LR_T,TLLL",",PR_T,CT_T,LR_T,TLLE"
+"micro","1","TLLS","lymphoreticular","","lymphocytic / lymphoblastic lymphoma lymphoreticular tiss.","","T050000","M969930","513","2434","362","LR_T",",PR_T,CT_T,LR_T,TLLS",",PR_T,CT_T,LR_T,TLSA,TSAR"
+"micro","1","TLML","lymphoreticular","","myelogenous leukemia ; lymphoreticular tissue","","T050000","M986030","","","351","LR_T",",PR_T,CT_T,LR_T,TLOT",",PR_T,CT_T,LR_T,TLLE"
+"micro","1","TLPS","lymphoreticular","","plasma cell tumor lymphoreticular tissue","","T050000","M973110","","","365","LR_T",",PR_T,CT_T,LR_T,TLOT",",PR_T,CT_T,LR_T,TLLE"
+"micro","1","TLSL","lymphoreticular","","undifferentiated leukemia; lymphoreticular tissue","","T050000","M980130","335","2434","350","LR_T",",PR_T,CT_T,LR_T,TLOT",",PR_T,CT_T,LR_T,TLLE"
+"micro","1","TLSS","lymphoreticular","","undifferentiated lymphoma lymphoreticular tissue","","T050000","M960030","513","2434","362","LR_T",",PR_T,CT_T,LR_T,TLOT",",PR_T,CT_T,LR_T,TLSA,TSAR"
+"micro","1","TLUS","lymphoreticular","","unclassified lymphoma lymphoreticular tissue","","T050000","M959030","513","2434","362","LR_T",",PR_T,CT_T,LR_T,TLUS",",PR_T,CT_T,LR_T,TLSA,TSAR"
+"micro","1","TLVO","lymphoreticular","","vascular tumor, benign; lymphoret. tiss. site spec. in comty","","T050000","M912000","","","397","TVAS",",PR_T,CT_T,T_VO,TVAS",",PR_T,CT_T"
+"micro","1","TLVS","lymphoreticular","","ln, vascular tumor (angiosarcoma) lymphoret. tiss site spec.","","T080000","M912030","","","393","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR"
+"micro","1","TLXL","lymphoreticular","","mixed histiocytic lymphocytic leukemia; lymphoret. tissue","","T050000","M982730","513","2434","363","LR_T",",PR_T,CT_T,LR_T,TLOT",",PR_T,CT_T,LR_T,TLLE"
+"micro","1","TLXS","lymphoreticular","","mixed histiocytic lymphocytic lymphoma (rct type b) lymphors","","T050000","M961330","513","2434","367","LR_T",",PR_T,CT_T,LR_T,TLXS",",PR_T,CT_T,LR_T,TLRC,TSAR"
+"micro","1","MADM","lymphoreticular","","mesenteric ln, or mesenteric disease","","T085100","D080200","","","541","0_NT","",""
+"micro","","TMAA","mammary","","adenocarcinoma a (alveolar) mammary gland","","T040000","M825130","218","145","21","TMAM",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T,TCAR,TMGL"
+"micro","","TMAB","mammary","","adenocarcinoma b (ductal, predominantly) mammary gland","","T040000","M850030","218","145","21","TMAM",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T,TCAR,TMGL"
+"micro","","TMAC","mammary","","adenocarcinoma c (fibrosarcoma) mammary gland","","T040000","M881030","268","145","22","TMAM",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T,TCAR,TMGL"
+"micro","","TMAT","mammary","","adenoacanthoma mammary gland","","T040000","M857030","255","145","26","TMAM",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T,TMGL"
+"micro","","MMDE","mammary","","mammary ductal ectasia (galactocele)","","T040000","M321000","","","550","0_NT","",""
+"micro","","MMMA","mammary gland","","acute inflammation (mastitis) mammary gland","","T040000","M410000","","","512","0_NT","",""
+"micro","","TMWM","mammary gland  ","muscle met. site spec. in comment ","mammary gland origin; muscle met. site spec. in comment","","T130010","M890030","","","-1","TWEP","",",T_W_"
+"micro","","TAWM","muscle","met. to adrenal ","muscle origin in comment; met. to adrenal","","T930000","M889030","","","","TWCN","",",T_W_"
+"micro","","TBWM","muscle","bone met. site spec. in comment ","muscle origin in comment; bone met. site spec. in comment","","T1X5000","M912030","","","","TWCN","",",T_W_"
+"micro","","TEWM","muscle","met. to spleen ","muscle origin in comment; met. to spleen","","T070000","M912030","","","","TWCN","",",T_W_"
+"micro","","THWM","muscle","met. to liver ","muscle origin in comment; met. to liver","","T560000","M912030","","","-1","TWCN","",",T_W_"
+"micro","","TLWM","muscle","lymphoret. tiss. met. site spec. t ","muscle origin in comment; lymphoret. tiss. met. site spec. t","","T050000","M890030","","","-1","TWCN","",",T_W_"
+"micro","","TNWM","muscle","nervous sys. met. site spec. in ct ","muscle origin in comment; nervous sys. met. site spec. in ct","","TX00000","M912030","","","-1","TWCN","",",T_W_"
+"micro","","TXWM","muscle","rare tiss. met. site spec. in com. ","muscle origin in comment; rare tiss. met. site spec. in com.","","T000030","M912030","","","-1","TWCN","",",T_W_"
+"micro","","TYWM","muscle","met. to heart ","muscle origin in comment; met. to heart","","T320000","M890030","","","-1","TWCN","",",T_W_"
+"micro","","TMFS","muscle","","fibrosarcoma muscle site specified in comment","","T130010","M881030","408","3","411","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR,TFSA"
+"micro","","TMLS","muscle","","leiomyosarcoma muscle  site specified in comment","","T130010","M889030","","","418","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T,TSAR"
+"micro","","TMRO","muscle","","rhabdomyoma muscle site specified in comment","","T130010","M890000","428","15","327","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T"
+"micro","","TMRS","muscle","","rhabdomyosarcoma muscle site specified in comment","","T130010","M890030","428","15","327","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T,TSAR"
+"micro","","TMSO","muscle","","leiomyoma muscle site specified in comment","","T130010","M889000","","","445","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T"
+"micro","","TMSS","muscle","","undifferentiated sarcoma muscle site specified in comment","","T130010","M880530","","","410","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR"
+"micro","","TMUO","muscle","","mammary gland tumor (undetermined type)","","T040000","M800010","218","145","20","TMAM",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T,TMGL"
+"micro","","TMVO","muscle","","hemangioma muscle site specified in comment","","T130010","M912000","","","397","TVAS",",PR_T,CT_T,T_VO,TVAS",",PR_T,CT_T"
+"micro","","TMVS","muscle","","hemangioendothelioma (angiosarcoma), malignant muscle site .","","T130010","M912030","","","393","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR"
+"micro","","TIWM","muscle or mammary gland","gi tract met. sit ","muscle or mammary gland origin in comment; gi tract met. sit","","T501000","M890030","","","-1","","",",T_W_"
+"micro","","TKWM","muscle or mammary gland","met. to kidney ","muscle or mammary gland origin in comment; met. to kidney","","T710000","M912030","","","-1","","",",TKW_,T_W_"
+"micro","","TRWM","muscle or mammary gland","met. to lung ","muscle or mammary gland origin in comment; met. to lung","","T280000","M912030","","","-1","","",",TRW_,T_W_"
+"micro","","TBWN","nervous system","bone met. site spec. in cot ","nervous system origin in comment;bone met. site spec. in cot","","T1X5000","M954030","","","","TWCN","",",T_W_"
+"micro","","TCWN","nervous system","conn.tiss. met. site spec. ","nervous system origin in comment; conn.tiss. met. site spec.","","T1X2000","M954030","","","","TWCN","",",T_W_"
+"micro","","THWN","nervous system","met. to liver ","nervous system origin in comment; met. to liver","","T560000","M954030","","","-1","TWCN","",",T_W_"
+"micro","","TLWN","nervous system","lymphoret. tiss. met. site int ","nervous system orig. in comm.;lymphoret. tiss. met. site int","","T050000","M954030","","","-1","TWCN","",",T_W_"
+"micro","","TMWN","nervous system","muscle met. site spec. in c. ","nervous system origin in comm.; muscle met. site spec. in c.","","T130010","M954030","","","-1","TWCN","",",T_W_"
+"micro","","TRWN","nervous system","met. to lung ","nervous system origin in comment; met. to lung","","T280000","M954030","","","-1","TWCN","",",TRW_,T_W_"
+"micro","","TSWN","nervous system","skin met. site spec. in c. ","nervous system origin in comment; skin met. site spec. in c.","","T010000","M954030","","","-1","TWCN","",",T_W_"
+"micro","","TNAS","nervous system","","astrocytoma nervous sys. site specified in comment","","TX00000","M940030","","","283","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T"
+"micro","","TNFO","nervous system","","fibroma nervous system site spec. in comment","","TX00000","M881000","","","448","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,T_FO"
+"micro","","TNMS","nervous system","","meningeal sarcoma nervous system","","TX11100","M880030","551","16","280","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR"
+"micro","","TNNB","nervous system","","ependymoma","","TX16100","M939130","","","282","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T"
+"micro","","TNNO","nervous system","","peripheral nerve neurilemmoma (neurofibroma) site spec. in .","","TX05000","M954000","","","291","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T"
+"micro","","TNNS","nervous system","","peripheral nerve neurofibrosarcoma nervous sys. site spec. .","","TX05000","M954030","437","16","287","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T,TSAR"
+"micro","","TNOS","nervous system","","oligodendroglioma nervous system","","TX00000","M945030","","","284","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T"
+"micro","","TNUS","nervous system","","undifferentiated tumor nervous system site spec. in comment","","TX00000","M800010","551","16","280","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T"
+"micro","","TNVS","nervous system","","vascular tumor (angiosarcoma) nervous system site spec. in .","","TX00000","M912030","","","393","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR"
+"micro","","TNXS","nervous system","","glioma, mixed, nervous system","","TX00000","M938230","","","281","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T"
+"micro","","MNIA","nervous system","","infection, acute; nervous system; site specified in comment","","TX00000","M410000","","","512","0_NT","",""
+"micro","","TXAC","other","","adenocarcinoma rare tissue with tumor site spec. in comment","","T000030","M814030","268","3","402","TEPO",",PR_T,EP_T,KLOG",",PR_T,EP_T,TCAR"
+"micro","","TXAO","other","","adenoma rare tiss. with tumor site spec. in comment","","T000030","M814000","270","3","440","TEPO",",PR_T,EP_T,KLOG",",PR_T,PR_T,EP_T"
+"micro","","TXEC","other","","squamous cell carcinoma rare tiss. with tumor; site spec. i.","","T000030","M807030","446","3","403","TEPO",",PR_T,EP_T,KLOG",",PR_T,EP_T,TCAR"
+"micro","","TXFA","other","","fibroadenoma; rare tissue with tumor; site specified in comt","","T000030","M901000","266","3","441","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T"
+"micro","","TXFS","other","","fibrosarcoma rare tiss. site specified in comment","","T000030","M881030","","","410","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR,TFSA"
+"micro","","TXLS","other","","leiomyosarcoma rare tissue site specified in comment","","T000030","M889030","","","418","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T,TSAR"
+"micro","","TXUO","other","","coded in comment unidentified tumor","","T000030","M800010","218","3","400","","",""
+"micro","","TXUS","other","","undifferentiated sarcoma rare tissue site spec. in comment","","T000030","M880530","","","410","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR"
+"micro","","TXVS","other","","hemangioendothelioma (angiosarcoma), malignant rare tiss si.","","T000030","M912030","","","393","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR"
+"micro","","TOAC","ovarian","","adenocarcinoma ovary","","T870000","M814030","218","384","181","TOVE",",PR_T,TOVE,TOOT",",PR_T,TCAR"
+"micro","","TOAO","ovarian","","adenoma ovary","","T870000","M814000","418","368","154","TOVE",",PR_T,TOVE,TOOT",""
+"micro","","TOCO","ovarian","","cyst adenoma ovary","","T870000","M844000","277","384","195","TOVE",",PR_T,TOVE,TOOT",",PR_T"
+"micro","","TOGC","ovarian","","granulosa cell tumor ovary","","T870000","M862010","","","191","TOVE",",PR_T,TOVE,TOGC",",PR_T"
+"micro","","TOPA","ovarian","","papillary adenoma ovary","","T870000","M826000","277","384","195","TOVE",",PR_T,TOVE,TOOT",",PR_T"
+"micro","","TOSC","ovarian","","undifferentiated carcinoma ovary","","T870000","M802030","549","384","182","TOVE",",PR_T,TOVE,TOOT",",PR_T,TCAR"
+"micro","","TOTO","ovarian","","luteoma / thecoma ovary","","T870000","M861000","","","193","TOVE",",PR_T,TOVE,TOTO",",PR_T"
+"micro","","TOVO","ovarian","","hemangioma  ovary","","T870000","M912000","242","384","196","TVAS",",PR_T,CT_T,T_VO,TVAS",",PR_T,CT_T"
+"micro","","TOVS","ovarian","","hemangioendothelioma (angiosarcoma) ovary","","T870000","M912030","242","384","184","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR"
+"micro","","MOCY","reproductive system","","ovary or testis cystic (gonad)","","T702050","M334000","62","3","583","MOCY","",""
+"micro","","MOIA","reproductive system","","acute infection; ovary or testis (gonad)","","T702050","M410000","","","512","0_NT","",""
+"micro","","TAWO","ovary  ","met. to adrenal ","ovary origin; met. to adrenal","","T930000","M814030","","","","TWEP","",",T_W_"
+"micro","","TCWO","ovary  ","conn. tiss. met. site spec. in comment ","ovary origin; conn. tiss. met. site spec. in comment","","T1X2000","M912030","","","","TWEP","",",T_W_"
+"micro","","THWO","ovary  ","met. to liver ","ovary origin; met. to liver","","T560000","M862010","","","-1","TWEP","",",T_W_"
+"micro","","TIWO","ovary  ","gi tract met. site spec. in comment ","ovary origin; gi tract met. site spec. in comment","","T501000","M802030","","","-1","TWEP","",",T_W_"
+"micro","","TKWO","ovary  ","met. to kidney ","ovary origin; met. to kidney","","T710000","M862010","","","-1","TWEP","",",TKW_,T_W_"
+"micro","","TLWO","ovary  ","lymphoret. tiss. met. site spec. in comment ","ovary  origin; lymphoret. tiss. met. site spec. in comment","","T050000","M862010","","","-1","TWEP","",",T_W_"
+"micro","","TNWO","ovary  ","nerv. system met. site spec. in comment ","ovary origin; nerv. system met. site spec. in comment","","TX00000","M862010","","","-1","TWEP","",",T_W_"
+"micro","","TRWO","ovary  ","met. to lung ","ovary origin; met. to lung","","T280000","M862010","","","-1","TWEP","",",TRW_,T_W_"
+"micro","","TUWO","ovary  ","met. to uterus ","ovary origin; met. to uterus","","T820000","M912030","","","-1","TWEP","",",T_W_"
+"micro","","TXWO","ovary  ","rare tiss. met. site spec. in comment ","ovary origin; rare tiss. met. site spec. in comment","","T000030","M912030","","","-1","TWEP","",",T_W_"
+"micro","","TYWO","ovary  ","met. to heart ","ovary origin; met. to heart","","T320000","M802030","","","-1","TWEP","",",T_W_"
+"micro","","TOTA","ovary  ","","tubular adenoma ovary","","T870000","M821100","270","384","194","TOVE",",PR_T,TOVE,TOTA",",PR_T"
+"micro","","MPNA","pancreas","","pancreatitis, acute","","T590000","M410000","","","512","0_NT","",""
+"micro","","MXWI","peritoneum","","peritonitis, local or generalized","","TY44000","M400000","212","54","532","0_NT","",""
+"micro","","TPAA","pituitary","","acidophilic adenoma pituitary","","T910000","M828000","218","176","250","TPIT",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T"
+"micro","","TPAC","pituitary","","carcinoma pituitary","","T910000","M801030","218","176","250","TPIT",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T,TCAR"
+"micro","","TPAO","pituitary","","adenoma pituitary","","T910000","M814000","218","176","250","TPIT",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T"
+"micro","","TPVS","pituitary","","angiosarcoma pituitary","","T910000","M912030","","","393","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR"
+"micro","","TCWP","pituitary  ","conn.tiss. met. site spec. in comment ","pituitary origin; conn.tiss. met. site spec. in comment","","T1X2000","M801030","","","","TWEP","",",T_W_"
+"micro","","TKWP","pituitary  ","met. to kidney ","pituitary origin; met. to kidney","","T710000","M814000","","","-1","TWEP","",",TKW_,T_W_"
+"micro","","TNWP","pituitary  ","nerv. sys. met. site spec. in comment ","pituitary origin; nerv. sys. met. site spec. in comment","","TX00000","M814000","","","-1","TWEP","",",T_W_"
+"micro","","TXWP","pituitary  ","rare tiss. met. site spec. in comment ","pituitary origin; rare tiss. met. site spec. in comment","","T000030","M801030","","","-1","TWEP","",",T_W_"
+"micro","","MPRH","prostate","","prostatic hyperplasia","","T771000","M720000","","","593","0_NT","",""
+"micro","","MPRA","prostate","","prostatitis, acute","","T771000","M410000","","","512","0_NT","",""
+"micro","","MPRS","prostate","","stasis prostate","","T771000","M330000","","","556","0_NT","",""
+"micro","","MOAT","reproductive system","","ovarian or testicular atrophy (gonad)","","T702050","M580000","127","3","610","0_NT","",""
+"micro","","MPNC","respiratory system","","lung congestion","","T280000","M361000","","","551","MPNU","",""
+"micro","","MPNU","respiratory system","","pneumonia, acute and subacute","","T200000","M410000","212","415","522","MPNU","",""
+"micro","","MRMP","respiratory system","","murine pneumonia","","T200000","D034420","212","415","522","MPNU","",""
+"micro","","MRPU","respiratory system","","pleuritis, local or generalized","","T290000","M400000","212","433","524","0_NT","",""
+"micro","","DLU","respiratory system","","lung missing","","T280000","FY44800","","","747","","",""
+"micro","","TAWR","respiratory system  ","met. to adrenal ","respiratory system origin; met. to adrenal","","T930000","M814030","","","","T_WR","",",T_WR,T_W_"
+"micro","","TBWR","respiratory system  ","bone met. site spec. in comment ","respiratory system origin; bone met. site spec. in comment","","T1X5000","M814030","","","","T_WR","",",T_WR,T_W_"
+"micro","","TCWR","respiratory system  ","conn. tiss. met. site spec. in ct ","respiratory system origin; conn. tiss. met. site spec. in ct","","T1X2000","M814030","","","","T_WR","",",T_WR,T_W_"
+"micro","","THWR","respiratory system  ","met. to liver ","respiratory system origin; met. to liver","","T560000","M814030","","","-1","T_WR","",",T_WR,T_W_"
+"micro","","TKWR","respiratory system  ","met. to kidney ","respiratory system origin; met. to kidney","","T710000","M814030","","","-1","T_WR","",",T_WR,TKW_,T_W_"
+"micro","","TLWR","respiratory system  ","lymphoret. tiss. met. site spec.. ","respiratory system origin; lymphoret. tiss. met. site spec..","","T050000","M912030","","","-1","T_WR","",",T_WR,T_W_"
+"micro","","TMWR","respiratory system  ","muscle met. site spec. in comment ","respiratory system origin; muscle met. site spec. in comment","","T130010","M914030","","","-1","T_WR","",",T_WR,T_W_"
+"micro","","TNWR","respiratory system  ","nerv. sys. met. site spec. in co. ","respiratory system origin; nerv. sys. met. site spec. in co.","","TX00000","M814030","","","-1","T_WR","",",T_WR,T_W_"
+"micro","","TXWR","respiratory system  ","rare tiss. met. site spec. in co. ","respiratory system origin; rare tiss. met. site spec. in co.","","T000030","M914030","","","-1","T_WR","",",T_WR,T_W_"
+"micro","","TYWR","respiratory system   ","met. to heart ","respiratory system  origin; met. to heart","","T320000","M814030","","","-1","T_WR","",",T_WR,T_W_"
+"micro","","MPNI","respiratory system","","pneumonitis (interstitial - acute / chronic)","","T280000","M400000","212","415","523","MPNU","",""
+"micro","","MADS","salivary gland","","submaxillary (cervical) adenitis","","T081900","M400000","","","512","0_NT","",""
+"micro","","THWV","seminal vesicle","met. to liver ","seminal vesicle origin; met. to liver","","T560000","M881030","","","-1","TWEP","",",T_W_"
+"micro","","TRWV","seminal vesicle","met. to lung ","seminal vesicle origin; met. to lung","","T280000","M881030","","","-1","TWEP","",",TRW_,T_W_"
+"micro","","TXWV","seminal vesicle","rare tiss. met. site spec. in comm. ","seminal vesicle origin; rare tiss. met. site spec. in comm.","","T000030","M881030","","","-1","TWEP","",",T_W_"
+"micro","","MSVH","seminal vesicle","","seminal vesicle hyperplasia","","T775000","M720000","","","593","0_NT","",""
+"micro","","MSVS","seminal vesicle","","stasis seminal vesicle","","T775000","M330000","","","556","0_NT","",""
+"micro","","TAWS","skin","met. to adrenal ","skin origin in comment; met. to adrenal","","T930000","M881030","","","","TWEP","",",T_W_"
+"micro","","TBWS","skin","bone met. site spec. in comment ","skin origin in comment; bone met. site spec. in comment","","T1X5000","M912030","","","","TWEP","",",T_W_"
+"micro","","TCWS","skin","conn. tiss. met. site spec. in comm. ","skin origin in comment; conn. tiss. met. site spec. in comm.","","T1X2000","M912030","","","","TWEP","",",T_W_"
+"micro","","TEWS","skin","met. to spleen ","skin origin in comment; met. to spleen","","T070000","M881030","","","","TWEP","",",T_W_"
+"micro","","TGWS","skin","met. to harderian gland ","skin origin in comment; met. to harderian gland","","TXX8360","M807030","","","-1","TWEP","",",T_W_"
+"micro","","THWS","skin","met. to liver ","skin origin in comment; met. to liver","","T560000","M912030","","","-1","TWEP","",",T_W_"
+"micro","","TLWS","skin","lymphoret.tiss. met. site spec. in co. ","skin origin in comm.; lymphoret.tiss. met. site spec. in co.","","T050000","M881030","","","-1","TWEP","",",T_W_"
+"micro","","TMWS","skin","muscle met. site spec. in comment ","skin origin in comment; muscle met. site spec. in comment","","T130010","M912030","","","-1","TWEP","",",T_W_"
+"micro","","TNWS","skin","nerv. sys. met. site spec. in commet ","skin origin in comment; nerv. sys. met. site spec. in commet","","TX00000","M807030","","","-1","TWEP","",",T_W_"
+"micro","","TRWS","skin","met. to lung ","skin origin in comment; met. to lung","","T280000","M912030","","","-1","TWEP","",",TRW_,T_W_"
+"micro","","TXWS","skin","rare tiss. met. site spec. in commet ","skin origin in comment; rare tiss. met. site spec. in commet","","T000030","M912030","","","-1","TWEP","",",T_W_"
+"micro","","TYWS","skin","met. to heart ","skin origin in comment; met. to heart","","T320000","M912030","","","-1","TWEP","",",T_W_"
+"micro","","TSAO","skin","","adenoma skin site spec. in comment","","T010000","M814000","219","146","9","TEPO",",PR_T,EP_T,KLOG",",PR_T,EP_T"
+"micro","","TSBC","skin","","basal cell carcinoma (hair follicle tumor)","","T014140","M809030","446","151","2","TEPO",",PR_T,EP_T,KLOG",",PR_T,EP_T,TCAR"
+"micro","","TSDO","skin","","sebaceous gland adenoma skin site spec. in comment","","T013100","M841000","407","151","8","TEPO",",PR_T,EP_T,KLOG",",PR_T,EP_T"
+"micro","","TSEC","skin","","squamous cell carcinoma skin; site specified in comment","","T010000","M807030","218","151","1","TEPO",",PR_T,EP_T,KLOG",",PR_T,EP_T,TCAR"
+"micro","","TSFS","skin","","fibrosarcoma skin site specified in comment","","T010000","M881030","219","151","4","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR,TFSA"
+"micro","","TSPO","skin","","papilloma skin site specified in comment","","T010000","M805000","219","146","9","TEPO",",PR_T,EP_T,KLOG",",PR_T,EP_T"
+"micro","","TSSS","skin","","undifferentiated sarcoma skin site specified in comment","","T010000","M880530","","","410","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR"
+"micro","","TSVS","skin","","vascular tumor (angiosarcoma) skin site spec. in comment","","T010000","M912030","","","393","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR"
+"micro","","MSGF","skin","","fibrosis salivary gland","","T550000","M490000","181","3","614","0_NT","",""
+"micro","","MSDA","skin","","dermatitis, acute","","T010000","M410000","","","531","0_NT","",""
+"micro","","MSDC","skin","","dermatitis, chronic","","T010000","M430000","","","513","0_NT","",""
+"micro","","MSKA","skin","","acanthosis; skin","","T010000","M727100","","","549","0_NT","",""
+"micro","1","TEFS","spleen","","fibrosarcoma of spleen","","T070000","M881030","551","141","380","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR,TFSA"
+"micro","1","TEVO","spleen","","vascular tumor of spleen, benign","","T070000","M912000","240","141","385","TVAS",",PR_T,CT_T,T_VO,TVAS",",PR_T,CT_T"
+"micro","1","TEVS","spleen","","vascular tumor of spleen, malignant","","T070000","M912030","242","141","381","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR"
+"micro","1","MSLC","spleen","","lymphoid hyperplasia spleen","","T070000","M722000","","","591","0_NT","",""
+"micro","1","MSPZ","spleen","","atrophic or anaplastic spleen","","T070000","M754000","127","3","610","0_NT","",""
+"micro","1","MSCN","spleen","","coagulation necrosis spleen","","T070000","M540600","4","3","606","0_NT","",""
+"micro","","TIPL","stomach","","polyp(plaque) pyloric region","","T501000","M720400","491","323","53","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,T_GI"
+"micro","","TTAC","testis","","carcinoma testis","","T780000","M801030","218","411","220","TTA_",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T,TCAR"
+"micro","","TTFA","testis","","fibroma testis","","T780000","M881000","218","411","221","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,T_FO"
+"micro","","TTFS","testis","","fibrosarcoma testis","","T780000","M881030","218","411","220","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR,TFSA"
+"micro","","TTGC","testis","","seminoma testis","","T780000","M906130","","","226","TTA_",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T"
+"micro","","TTIO","testis","","interstitial cell tumor (leydig) testis","","T780000","M865000","","","225","TTA_",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T"
+"micro","","TTKC","testis","","sertoli cell tumor testis","","T780000","M864000","331","2420","224","TTA_",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T"
+"micro","","TTQC","testis","","embryonal carcinoma testis","","T780000","M907030","218","411","220","TTA_",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T,TCAR"
+"micro","","TTVO","testis","","hemangioma, benign testis","","T780000","M912000","","","397","TVAS",",PR_T,CT_T,T_VO,T_VO,TVAS",",PR_T,CT_T"
+"micro","","TTVS","testis","","hemangioendothelioma (angiosarcoma), malignant testis","","T780000","M912030","","","393","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR"
+"micro","","TEWT","testis  ","met. to spleen ","testis origin; met. to spleen","","T070000","M801030","","","","TWEP","",",T_W_"
+"micro","","TIWT","testis  ","gi tract met. site spec. in comment ","testis origin; gi tract met. site spec. in comment","","T501000","M801030","","","-1","TWEP","",",T_W_"
+"micro","","TLWT","testis  ","lymphoret. tiss. met. site spec. in comment ","testis origin; lymphoret. tiss. met. site spec. in comment","","T050000","M906130","","","-1","TWEP","",",T_W_"
+"micro","","TMWT","testis  ","muscle met. site specified in comment ","testis origin; muscle met. site specified in comment","","T130010","M906130","","","-1","TWEP","",",T_W_"
+"micro","","TRWT","testis  ","met. to lung ","testis origin; met. to lung","","T280000","M912030","","","-1","TWEP","",",TRW_,T_W_"
+"micro","","TYWT","testis  ","met. to heart ","testis origin; met. to heart","","T320000","M881030","","","-1","TWEP","",",T_W_"
+"micro","","DTX","thorax","","thorax missing","","TY21000","FY44800","","","747","","",""
+"micro","","TZAC","thyroid","","adenocarcinoma thyroid","","T960000","M814030","278","129","240","TTHY",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T,TCAR"
+"micro","","TZAO","thyroid","","adenoma thyroid","","T960000","M814000","270","129","245","TTHY",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T"
+"micro","","MSTH","thyroid","","hyperplasia thyroid","","T960000","M720000","","","593","0_NT","",""
+"micro","","MSTA","thyroid","","thyroiditis, acute","","T960000","M410000","","","512","0_NT","",""
+"micro","","MSVA","thyroid","","seminal vesicle, acute inflammation","","T775000","M410000","","","512","0_NT","",""
+"micro","","TAWZ","thyroid  ","met. to adrenal ","thyroid origin; met. to adrenal","","T930000","M814030","","","","TWEP","",",T_W_"
+"micro","","TCWZ","thyroid  ","conn. tiss. met. site spec. in comment ","thyroid origin; conn. tiss. met. site spec. in comment","","T1X2000","M814030","","","","TWEP","",",T_W_"
+"micro","","THWZ","thyroid  ","met. to liver ","thyroid origin; met. to liver","","T560000","M814030","","","-1","TWEP","",",T_W_"
+"micro","","TIWZ","thyroid  ","gi tract met. site spec. in comment ","thyroid origin; gi tract met. site spec. in comment","","T501000","M814030","","","-1","TWEP","",",T_W_"
+"micro","","TLWZ","thyroid  ","lymphoret. tiss. met. site spec. in comment ","thyroid origin; lymphoret. tiss. met. site spec. in comment","","T050000","M814030","","","-1","TWEP","",",T_W_"
+"micro","","TMWZ","thyroid  ","muscle met. site specified in comment ","thyroid origin; muscle met. site specified in comment","","T130010","M814030","","","-1","TWEP","",",T_W_"
+"micro","","TRWZ","thyroid  ","met. to lung ","thyroid origin; met. to lung","","T280000","M814030","","","-1","TWEP","",",TRW_,T_W_"
+"micro","","TBWX","tissue of origin in comment","bone met. site spec. in comm. ","tissue of origin in comment; bone met. site spec. in comm.","","T1X5000","M814030","","","","","",",T_W_"
+"micro","","TDWX","tissue of origin in comment","met. to urinary bladder ","tiss. of origin in comment; met. to urinary bladder","","T740000","M880530","","","","","",",T_W_"
+"micro","","THWX","tissue of origin in comment","met. to liver ","tissue of origin in comment; met. to liver","","T560000","M912030","","","-1","","",",T_W_"
+"micro","","TKWX","tissue of origin in comment","met. to kidney ","tissue of origin in comment; met. to kidney","","T710000","M912030","","","-1","","",",TKW_,T_W_"
+"micro","","TLWX","tissue of origin in comment","lymphoret. tiss. met. site spe. ","tissue of origin in comment; lymphoret. tiss. met. site spe.","","T050000","M912030","","","-1","","",",T_W_"
+"micro","","TMWX","tissue of origin in comment","muscle met. site spec. in comm. ","tissue of origin in comment; muscle met. site spec. in comm.","","T130010","N814030","","","-1","","",",T_W_"
+"micro","","TNWX","tissue of origin in comment","nerv. sys. met. site spec. in . ","tissue of origin in comment; nerv. sys. met. site spec. in .","","TX00000","M954030","","","-1","","",",T_W_"
+"micro","","TOWX","tissue of origin in comment","met. to ovary ","tissue of origin in comment; met. to ovary","","T870000","M912030","","","-1","","",",T_W_"
+"micro","","TRWX","tissue of origin in comment","met. to lung ","tissue of origin in comment; met. to lung","","T280000","M880530","","","-1","","",",TRW_,T_W_"
+"micro","","TVWX","tissue of origin in comment","met. to seminal vesicle ","tissue of origin in comment; met. to seminal vesicle","","T775000","M814030","","","-1","","",",T_W_"
+"micro","","TYWX","tissue of origin in comment","met. to heart ","tiss ue of origin in comment; met. to heart","","T320000","M912030","","","-1","","",",T_W_"
+"micro","","DTR","trunk","","trunk missing","","TY10000","FY44800","","","747","","",""
+"micro","","MCDU","unknown","","cause of death undetermined","","T000100","FY35000","","","651","CDU ","",""
+"micro","","TCWD","urinary system","conn.tiss. met. site spec. in comm. ","urinary bladder origin; conn.tiss. met. site spec. in comm.","","T1X2000","M881030","","","","TWEP","",",T_W_"
+"micro","","TEWD","urinary system","met. to spleen ","urinary bladder origin; met. to spleen","","T070000","M881030","","","","TWEP","",",T_W_"
+"micro","","THWD","urinary system","met. to liver ","urinary bladder origin; met. to liver","","T560000","M881030","","","-1","TWEP","",",T_W_"
+"micro","","TMWD","urinary system","muscle met. site specified in commet ","urinary bladder origin; muscle met. site specified in commet","","T130010","M881030","","","-1","TWEP","",",T_W_"
+"micro","","TVWD","urinary system","met. to seminal vesicle ","urinary bladder origin; met. to seminal vesicle","","T775000","M912030","","","-1","TWEP","",",T_W_"
+"micro","","TDEC","urinary system","","squamous cell carcinoma urinary bladder","","T740000","M807030","549","2636","161","TKID",",PR_T,EP_T,KLOG",",PR_T,EP_T,TCAR"
+"micro","","TDFS","urinary system","","fibrosarcoma urinary bladder","","T740000","M881030","551","2636","163","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR,TFSA"
+"micro","","TDLS","urinary system","","leiomyosarcoma urinary bladder","","T740000","M889030","","","418","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T,TSAR"
+"micro","","TDTC","urinary system","","transitional cell carcinoma urinary bladder","","T740000","M812030","549","2636","161","TKID",",PR_T,EP_T,KLOG",",PR_T,EP_T,TCAR"
+"micro","","TDVO","urinary system","","vascular tumor urinary bladder","","T740000","M912000","","","397","TVAS",",PR_T,CT_T,T_VO,TVAS",",PR_T,CT_T"
+"micro","","TDVS","urinary system","","vascular tumor, angiosarcoma urinary bladder","","T740000","M912030","","","393","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR"
+"micro","","MURH","urinary system","","ureteral epithelial hyperplasia","","T730000","M720000","","","593","0_NT","",""
+"micro","","MPNE","urinary system","","pyelonephritis, acute","","T710000","M410000","212","368","535","MCRD","",""
+"micro","","MPNP","urinary system","","pyelonephritis (pyonephritis)","","T710000","M414000","212","368","535","MCRD","",""
+"micro","","MUCA","urinary system","","cystitis, acute","","T740000","M410000","","","512","0_NT","",""
+"micro","","MUCC","urinary system","","cystitis, chronic","","T740000","M430000","","","513","0_NT","",""
+"micro","","MURA","urinary system","","ureteritis, acute","","T730000","M410000","","","512","0_NT","",""
+"micro","","MURC","urinary system","","ureteritis, chronic","","T730000","M430000","","","513","0_NT","",""
+"micro","","TUAC","uterus","","adenocarcinoma uterus","","T820000","M814030","218","389","200","TUTE",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T,TCAR"
+"micro","","TUAO","uterus","","adenoma (including papillary type) uterus","","T820000","M814000","270","389","210","TUTE",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T"
+"micro","","TUEC","uterus","","squamous cell carcinoma uterus","","T820000","M807030","268","389","201","TUTE",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T,TCAR"
+"micro","","TUFO","uterus","","fibroma uterus","","T820000","M881000","270","389","210","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,T_FO"
+"micro","","TULO","uterus","","leiomyoma uterus","","T820000","M889000","425","389","212","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T"
+"micro","","TULS","uterus","","leiomyosarcoma uterus","","T820000","M889030","551","389","203","TCON",",PR_T,CT_T,TCOT,TCON",",PR_T,CT_T,TSAR"
+"micro","","TUNO","uterus","","neurilemmoma uterus","","T820000","M956000","","","293","TCON",",PR_T,CT_T,TCOT",",PR_T,CT_T"
+"micro","","TUUO","uterus","","deciduoma uterus","","T820000","M765700","218","389","200","","",""
+"micro","","TUUS","uterus","","sarcoma, unidentified type uterus","","T820000","M880030","255","389","202","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR"
+"micro","","TUVO","uterus","","hemangioma, benign uterus","","T820000","M912000","236","389","213","TVAS",",PR_T,CT_T,T_VO,TVAS",",PR_T,CT_T"
+"micro","","TUVS","uterus","","hemangioendothelioma (angiosarcoma), malignant uterus","","T820000","M912030","242","389","205","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR"
+"micro","","TVAO","uterus","","adenoma seminal vesicle","","T775000","M814000","270","410","237","TTA_",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T"
+"micro","","TVFS","uterus","","fibrosarcoma seminal vesicle","","T775000","M881030","551","410","236","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR,TFSA"
+"micro","","TVSS","uterus","","undifferentiated sarcoma seminal vesicle","","T775000","M880530","551","410","236","TCON",",PR_T,CT_T,T_FS,TCON",",PR_T,CT_T,TSAR"
+"micro","","TVUO","uterus","","tumor (unknown cell type) seminal vesicle","","T775000","M800010","218","3","400","TTA_",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T"
+"micro","","TVVS","uterus","","hemangioendothelioma (angiosarcoma),malignant seminal vesic.","","T775000","M912030","","","393","","",""
+"micro","","MMCH","uterus","","uterine cystic hyperplasia","","T820000","M720600","134","389","582","0_NT","",""
+"micro","","MMTA","uterus","","metritis, acute","","T820000","M410000","","","512","0_NT","",""
+"micro","","MMTC","uterus","","metritis, chronic","","T820000","M430000","","","513","0_NT","",""
+"micro","","TAWU","uterus  ","met. to adrenal ","uterus origin; met. to adrenal","","T930000","M807030","","","","TWEP","",",T_W_"
+"micro","","TEWU","uterus  ","met. to spleen ","uterus origin; met. to spleen","","T070000","M889030","","","","TWEP","",",T_W_"
+"micro","","THWU","uterus  ","met. to liver ","uterus origin; met. to liver","","T560000","M880030","","","-1","TWEP","",",T_W_"
+"micro","","TIWU","uterus  ","gi tract met. site specified in comment ","uterus origin; gi tract met. site specified in comment","","T501000","M912030","","","-1","TWEP","",",T_W_"
+"micro","","TKWU","uterus  ","met. to kidney ","uterus origin; met. to kidney","","T710000","M912030","","","-1","TWEP","",",TKW_,T_W_"
+"micro","","TLWU","uterus  ","lymphoret. tiss. met. site spec. in comment ","uterus origin; lymphoret. tiss. met. site spec. in comment","","T050000","M880030","","","-1","TWEP","",",T_W_"
+"micro","","TOWU","uterus  ","met. to ovary ","uterus origin; met. to ovary","","T870000","M889030","","","-1","","",",T_W_"
+"micro","","TRWU","uterus  ","met. to lung ","uterus origin; met. to lung","","T280000","M912030","","","-1","TWEP","",",TRW_,T_W_"
+"micro","","TXWU","uterus  ","rare tiss. met. site spec. in comment ","uterus origin; rare tiss. met. site spec. in comment","","T000030","M912030","","","-1","TWEP","",",T_W_"
+"micro","","TYWU","uterus  ","met. to heart ","uterus origin; met. to heart","","T320000","M807030","","","-1","TWEP","",",T_W_"
+"micro","","TBVO","vascular","","sternal marrow vascular tumor","","T060000","M912000","","","397","TVAS",",PR_T,CT_T,T_VO,TVAS",",PR_T,CT_T"
+"micro","","TBVS","vascular","","vascular tumor (angiosarcoma) bone site spec. in comment","","T1X5000","M912030","","","393","TVAS",",PR_T,CT_T,T_VS,TVAS",",PR_T,CT_T,TSAR,TBON"
+"micro","","MTHR","vascular","","thrombosis, auricular","","T320000","M351000","","","570","MCVD","",""
+"macro","1","ABS","Topography not assigned","","Abscess","Abscess","00003","M41740","","","","O_NT","",""
+"macro","1","ACI","Topography not assigned","","Inflamation, acute exudative (suppurative)","Acute infection","00003","M41400","","","","O_NT","",""
+"macro","1","ADH","Topography not assigned","","Adhesion","Adhesion","00003","M49400","","","","O_NT","",""
+"macro","1","ADR","Adrenal gland","","Morphology unknown","Adrenal","93000","M00010","","","","O_NT","",""
+"macro","1","AMY","Topography not assigned","","Deposition, amyloid","Amyloid","00003","M55100","","","","MAMY","",""
+"macro","1","ANE","Whole body","","Anemia","Anemia","00010","M40100","","","","O_NT","",""
+"macro","1","ANU","Blood vessel","","Aneurysm","Aneurysm","40000","M32400","","","","O_NT","",""
+"macro","1","ASC","Peritoneal cavity","","Effusion","Ascites","Y4500","M36300","","","","O_NT","",""
+"macro","1","BAC","Blood","","Disease caused by bacteria","Bacteremia","0X000","D0110","","","","O_NT","",""
+"macro","1","BDY","Topography not assigned","","Effusion, serosanguineous","Bloody - HTX or ASC","00003","M36330","","","","O_NT","",""
+"macro","1","BLA","Urinary bladder","","Morphology unknown","Urinary bladder","74000","M00010","","","","O_NT","",""
+"macro","1","BON","Bony tissue (bone)","","Morphology unknown","Bone","1X500","M00010","","","","O_NT","",""
+"macro","1","BRN","Brain","","Morphology unknown","Brain","X2000","M00010","","","","O_NT","",""
+"macro","1","BSC","Peritoneal cavity","","Effusion, serosanguineous","Bloody ascites","Y4500","M36330","","","","O_NT","",""
+"macro","1","CAE","Cecum","","Morphology unknown","Caecum","67100","M00010","","","","O_NT","",""
+"macro","1","CAL","Topography not assigned","","Deposition, calcium","Calcification","00003","M55400","","","","O_NT","",""
+"macro","1","CAT","Crystalline lens","","Cataract","Cataract","XX700","M51100","","","","O_NT","",""
+"macro","1","CDU","Whole body","","Undetermined manner of death","Cause of death undetermined","00010","FY3500","","","","CDU","",""
+"macro","1","CGL","Bulburethral gland (Cowper's gland)","","Morphology unknown","Cowper's gland","75170","M00010","","","","O_NT","",""
+"macro","1","CHO","Gallbladder","","Inflammation","Cholecystitis","57000","M40000","","","","MHEP","",""
+"macro","1","CIR","Liver","","Cirrhosis","Cirrhosis","56000","M49500","","","","MHEP","",""
+"macro","1","CLI","Urinary bladder","","Calculus","Calculi","74000","M30000","","","","O_NT","",""
+"macro","1","CLR","Topography not assigned","","Effusion","Clear H TX or ASC","00003","M36300","","","","O_NT","",""
+"macro","1","CNS","Central nervous system","","Morphology unknown","Central nervous system","X0090","M00010","","","","O_NT","",""
+"macro","1","COL","Colon","","Morphology unknown","Colon","67000","M00010","","","","O_NT","",""
+"macro","1","CRD","Kidney","","Inflammation, chronic","Chronic renal disease","71000","M43000","","","","MCRD","",""
+"macro","1","CYS","Topography not assigned","","Cyst","Cyst","00003","M33400","","","","MOCY","",""
+"macro","1","DER","Skin","","Inflammation","Dermatitis","01000","M40000","","","","O_NT","",""
+"macro","1","DHY","Whole body","","Dehydration","Dehydration","00010","F01790","","","","O_NT","",""
+"macro","1","DIV","Gastrointestinal tract","","Diverticulum","Diverticulum","50100","M32700","","","","O_NT","",""
+"macro","1","DUO","Duodenum","","Morphology unknown","Duodenum","64300","M00010","","","","O_NT","",""
+"macro","1","EDA","Whole body","","Edema","Edema","00010","M36500","","","","O_NT","",""
+"macro","1","EMB","Cardiovascular system","","Embolus","Embolus","30000","M35300","","","","O_NT","",""
+"macro","1","EMP","Lung","","Emphysema","Emphysema","28000","M32800","","","","MPNU","",""
+"macro","1","ENT","Intestine","","Inflammation","Enteritis","50500","M40000","","","","O_NT","",""
+"macro","1","EPL","Skin","","Alopecia","Epilation","01000","M58600","","","","O_NT","",""
+"macro","1","ESO","Esophagus","","Morphology unknown","Esophagus","62000","M00010","","","","O_NT","",""
+"macro","1","FIT","Whole body","","Victim of physical trauma","Fighting","00010","FY3710","","","","O_NT","",""
+"macro","1","GBL","Gallbladder","","Morphology unknown","Gallbladder","57000","M00010","","","","O_NT","",""
+"macro","1","GEN","External genitalia","","Morphology unknown","External genitalia","70210","M00010","","","","O_NT","",""
+"macro","1","GON","Gonad","","Morphology unknown","Gonad","70205","M00010","","","","O_NT","",""
+"macro","1","GRY","Whole body","","Depigmentation (hair grayness)","Grayness","00010","M57140","","","","O_NT","",""
+"macro","1","HEM","Topography not assigned","","Hematoma","Hematoma","00003","M37100","","","","O_NT","",""
+"macro","1","HEP","Liver","","Inflammation, acute","Hepatitis","56000","M41000","","","","MHEP","",""
+"macro","1","HGL","Harderian gland","","Morphology unknown","Harderian gland","XX836","M00010","","","","O_NT","",""
+"macro","1","HNP","Renal pelvis","","Retention of fluid  (Hydronephrosis)","Hydronephrosis","72000","M33300","","","","MCRD","",""
+"macro","1","HRG","Topography not assigned","","Hemorrhage","Hemorrhage","00003","M37000","","","","O_NT","",""
+"macro","1","HRT","Heart","","Morphology unknown","Heart","32000","M00010","","","","O_NT","",""
+"macro","1","HTX","Thoracic cavity","","Retention of fluid  (Hydronephrosis)","Hydrothorax","Y2200","M33300","","","","O_NT","",""
+"macro","1","ILE","Ileum","","Morphology unknown","Ileum","65200","M00010","","","","O_NT","",""
+"macro","1","INF","Topography not assigned","","Inflammation","Inflammation","00003","M40000","","","","O_NT","",""
+"macro","1","INT","Intestine","","Intussusception","Intussusception","50500","M31130","","","","O_NT","",""
+"macro","1","ISO","Topography not assigned","","Transplanted organ","Isograft","00003","M15600","","","","O_NT","",""
+"macro","1","JAU","Whole body","","Pigmentation, bile  (Jaundice)","Jaundice","00010","M57600","","","","O_NT","",""
+"macro","1","JEJ","Jejunum","","Morphology unknown","Jejunum","65100","M00010","","","","O_NT","",""
+"macro","1","KID","Kidney","","Morphology unknown","Kidney","71000","M00010","","","","O_NT","",""
+"macro","1","LIV","Liver","","Morphology unknown","Liver","56000","M00010","","","","O_NT","",""
+"macro","1","LOB","Lung","","Inflammation","Lobar pneumonia","28000","M40000","","","","MPNU","",""
+"macro","1","MAL","Tooth","","Malocclusion","Malocclusion","54010","F60430","","","","O_NT","",""
+"macro","1","MET","Uterus","","Inflammation","Metritis","82000","M40000","","","","O_NT","",""
+"macro","1","MGC","Colon","","Hyperdistention","Megacolon","67000","M32220","","","","O_NT","",""
+"macro","1","MGL","Mammary gland","","Morphology unknown","Mammary gland","04000","M00010","","","","O_NT","",""
+"macro","1","MIC","Cardiovascular system","","Morphology unknown","Miscellaneous circulatory","30000","M00010","","","","O_NT","",""
+"macro","1","MID","Digestive system","","Morphology unknown","Miscellaneous digestive","50000","M00010","","","","O_NT","",""
+"macro","1","MIG","Genitourinary system","","Morphology unknown","Miscellaneous urogenital","70000","M00010","","","","O_NT","",""
+"macro","1","MIL","Lung","","Morphology unknown","Miscellaneous lung","28000","M00010","","","","MPNU","",""
+"macro","1","MIR","Urinary tract","","Morphology unknown","Miscellaneous renal","70100","M00010","","","","MCRD","",""
+"macro","1","MIS","Topography not assigned","","Morphology unknown","Others, general","00003","M00010","","","","O_NT","",""
+"macro","1","MKY","Topography not assigned","","","Milky","00003","M36340","","","","O_NT","",""
+"macro","1","MSC","Peritoneal cavity","","","Milky ascites","Y4500","M36340","","","","O_NT","",""
+"macro","1","MYO","Myocardium","","Morphology unknown","Myocardium","33010","M00010","","","","MCVD","",""
+"macro","1","NEC","Topography not assigned","","Necrosis","Necrosis","00003","M54000","","","","O_NT","",""
+"macro","1","NTYG","Topography, multiple sites","","","Non-thymic lymphoma, generalized","00020","MYY933","","","","LR_T",",PR_T,CT_T,LR_T",",PR_T,CT_T,LR_T"
+"macro","1","NTYL","Topography not assigned","","","Non-thymic lymphoma, localized","00003","MYY933","","","","LR_T",",PR_T,CT_T,LR_T",",PR_T,CT_T,LR_T"
+"macro","1","OBE","Whole body","","Obesity","Obese","00010","M71800","","","","O_NT","",""
+"macro","1","OBS","Topography not assigned","","Obstruction","Obstruction","00003","M34000","","","","O_NT","",""
+"macro","1","OVE","Ovary","","Morphology unknown","Ovary","87000","M00010","","","","O_NT","",""
+"macro","1","PAN","Pancreas (Exocrine Pancreas)","","Inflammation","Pancreatitis","59000","M40000","","","","O_NT","",""
+"macro","1","PAR","Topography not assigned","","Paralysis","Paralysis","00003","F80840","","","","O_NT","",""
+"macro","1","PCD","Pericardium","","Morphology unknown","Pericardium","31000","M00010","","","","MCVD","",""
+"macro","1","PCK","Kidney","","","Polycystic kidney","71000","M26730","","","","MCRD","",""
+"macro","1","PEN","Penis","","Morphology unknown","Penis","76000","M00010","","","","O_NT","",""
+"macro","1","PER","Peritoneum","","Inflammation","Peritonitis","Y4400","M40000","","","","O_NT","",""
+"macro","1","PGL","PREPUTIAL GLAND","","Morphology unknown","Preputial gland","76350","M00010","","","","O_NT","",""
+"macro","1","PIT","Pituitary gland","","Morphology unknown","Pituitary","91000","M00010","","","","O_NT","",""
+"macro","1","PNC","Lung","","Congestion","Pneumonitis","28000","M36100","","","","MPNU","",""
+"macro","1","PNU","Lung","","Inflammation","Pneumonia","28000","M40000","","","","MPNU","",""
+"macro","1","PRF","Topography not assigned","","Perforation","Perforation","00003","M39800","","","","O_NT","",""
+"macro","1","PRO","Topography not assigned","","Displacement, inferior (Prolapse)","Prolapse","00003","M31050","","","","O_NT","",""
+"macro","1","PST","Prostate","","Morphology unknown","Prostate","77100","M00010","","","","O_NT","",""
+"macro","1","SEM","Seminal vesicle","","Morphology unknown","Seminal vesicle","77500","M00010","","","","O_NT","",""
+"macro","1","SGL","Salivary gland","","Morphology unknown","Salivary gland","55000","M00010","","","","O_NT","",""
+"macro","1","SPL","Spleen","","Morphology unknown","Spleen","07000","M00010","","","","O_NT","",""
+"macro","1","STO","Stomach","","Morphology unknown","Stomach","63000","M00010","","","","O_NT","",""
+"macro","1","TADN","Lung","","Neoplasm, uncertain whether benign or malignant","Lung","28000","M80001","","","","TADN",",PR_T,EP_T",",PR_T,EP_T"
+"macro","1","TADP","Adipose tissue","","Neoplasm, uncertain whether benign or malignant","Adipose","1X010","M80001","","","","","",""
+"macro","1","TADR","Adrenal gland","","Neoplasm, uncertain whether benign or malignant","Adrenal","93000","M80001","","","","TADR",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T,TADR"
+"macro","1","TBLA","Urinary bladder","","Neoplasm, uncertain whether benign or malignant","Urinary bladder","74000","M80001","","","","TKID",",PR_T,EP_T,KLOG",",PR_T,EP_T"
+"macro","1","TBON","Bony tissue (bone)","","Neoplasm, uncertain whether benign or malignant","Bone","1X500","M80001","","","","TCON",",PR_T,CT_T,TCON",",PR_T,CT_T,TBON"
+"macro","1","TBRN","Brain","","Neoplasm, uncertain whether benign or malignant","Brain","X2000","M80001","","","","TCON",",PR_T,CT_T,TCON",",PR_T,CT_T"
+"macro","1","TCEC","Cecum","","Neoplasm, uncertain whether benign or malignant","Caecum","67100","M80001","","","","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,T_GI"
+"macro","1","TCGL","Bulburethral gland (Cowper's gland)","","Neoplasm, uncertain whether benign or malignant","Cowper's gland","75170","M80001","","","","O_NT",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T"
+"macro","1","TCNS","Central nervous system","","Neoplasm, uncertain whether benign or malignant","Central nervous system","X0090","M80001","","","","TCON",",PR_T,CT_T,TCON",",PR_T,CT_T"
+"macro","1","TCOL","Colon","","Neoplasm, uncertain whether benign or malignant","Colon","67000","M80001","","","","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,T_GI"
+"macro","1","TCON","Connective tissue","","Neoplasm, uncertain whether benign or malignant","Connective tissue (fibrosarcoma)","1X200","M80001","","","","TCON",",PR_T,CT_T,TCON",",PR_T,CT_T"
+"macro","1","TDUO","Duodenum","","Neoplasm, uncertain whether benign or malignant","Duodenum","64300","M80001","","","","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,T_GI"
+"macro","1","TEP","TESTIS & EPIDIDYMIS","","Morphology unknown","Testis and epididymis","78910","M00010","","","","O_NT","",""
+"macro","1","TEPI","Epididymis","","Neoplasm, uncertain whether benign or malignant","Epididymis","79100","M80001","","","","O_NT",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T"
+"macro","1","TESO","Esophagus","","Neoplasm, uncertain whether benign or malignant","Esophagus","62000","M80001","","","","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,T_GI"
+"macro","1","TGBL","Gallbladder","","Neoplasm, uncertain whether benign or malignant","Gallbladder","57000","M80001","","","","TLIV",",PR_T,EP_T,KLOG",",PR_T,EP_T"
+"macro","1","TGE","Tongue","","Morphology unknown","Tongue","53000","M00010","","","","O_NT","",""
+"macro","1","THGL","Harderian gland","","Neoplasm, uncertain whether benign or malignant","Harderian gland","XX836","M80001","","","","TGA_",",PR_T,EP_T,ENDO",",PR_T,EP_T"
+"macro","1","THIB","HIBERNATING GLAND","","Neoplasm, uncertain whether benign or malignant","Hibernating gland","1X040","M80001","","","","TEPO",",PR_T,EP_T,KLOG",",PR_T,EP_T"
+"macro","1","THR","Cardiovascular system","","Thrombus","Thrombus","30000","M35100","","","","MCVD","",""
+"macro","1","THRT","Heart","","Neoplasm, uncertain whether benign or malignant","Heart","32000","M80001","","","","TCON",",PR_T,CT_T,TCON",",PR_T,CT_T"
+"macro","1","TILE","Ileum","","Neoplasm, uncertain whether benign or malignant","Ileum","65200","M80001","","","","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,T_GI"
+"macro","1","TISO","Spleen","","Neoplasm, uncertain whether benign or malignant","Isograft spleen","07000","M80001","","","","O_NT","",""
+"macro","1","TJEJ","Jejunum","","Neoplasm, uncertain whether benign or malignant","Jejunum","65100","M80001","","","","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,T_GI"
+"macro","1","TKID","Kidney","","Neoplasm, uncertain whether benign or malignant","Kidney","71000","M80001","","","","TKID",",PR_T,EP_T,KLOG",",PR_T,EP_T,TK__"
+"macro","1","TLIV","Liver","","Neoplasm, uncertain whether benign or malignant","Liver","56000","M80001","","","","TLIV",",PR_T,EP_T,KLOG",",PR_T,EP_T"
+"macro","1","TMGL","Mammary gland","","Neoplasm, uncertain whether benign or malignant","Mammary gland","04000","M80001","","","","TMAM",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T,TMGL"
+"macro","1","TMIC","Soft tissue and other connective tissue","","Neoplasm, uncertain whether benign or malignant","Miscellaneous connective tissue","1X005","M80001","","","","TCON",",PR_T,CT_T,TCON",",PR_T,CT_T"
+"macro","1","TMID","Digestive system","","Neoplasm, uncertain whether benign or malignant","Miscellaneous digestive system","50000","M80001","","","","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,T_GI"
+"macro","1","TMIE","Endocrine system","","Neoplasm, uncertain whether benign or malignant","Miscellaneous endocrine","90000","M80001","","","","TEPO",",PR_T,EP_T,KLOG",",PR_T,EP_T"
+"macro","1","TMIG","Topography not assigned","","Neoplasm, uncertain whether benign or malignant","Miscellaneous glandular","00003","M80001","","","","TEPO",",PR_T,EP_T,KLOG",",PR_T,EP_T"
+"macro","1","TMIL","Respiratory system","","Neoplasm, uncertain whether benign or malignant","Miscellaneous lung","20000","M80001","","","","MPNU",",PR_T,EP_T",",PR_T,EP_T"
+"macro","1","TMIN","Nervous system","","Neoplasm, uncertain whether benign or malignant","Miscellaneous nervous system","X0000","M80001","","","","TCON",",PR_T,CT_T,TCON",",PR_T,CT_T"
+"macro","1","TMIR","Reticular tissue","","Neoplasm, uncertain whether benign or malignant","Miscellaneous reticular system","1X250","M80001","","","","","",""
+"macro","1","TMIS","Topography not assigned","","Neoplasm, uncertain whether benign or malignant","Miscellaneous miscellaneous","00003","M80001","","","","O_NT","",""
+"macro","1","TMUG","Genitourinary system","","Neoplasm, uncertain whether benign or malignant","Miscellaneous urogenital","70000","M80001","","","","TKID",",PR_T,EP_T,KLOG",",PR_T,EP_T"
+"macro","1","TMUS","Muscle","","Neoplasm, uncertain whether benign or malignant","Muscle","13001","M80001","","","","TCON",",PR_T,CT_T,TCON",",PR_T,CT_T"
+"macro","1","TOVE","Ovary","","Neoplasm, uncertain whether benign or malignant","Ovary","87000","M80001","","","","TOVE",",PR_T,TOVE",",PR_T"
+"macro","1","TPAN","Pancreas (Exocrine Pancreas)","","Neoplasm, uncertain whether benign or malignant","Pancreas","59000","M80001","","","","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,T_GI"
+"macro","1","TPIT","Pituitary gland","","Neoplasm, uncertain whether benign or malignant","Pituitary","91000","M80001","","","","TPIT",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T,EP_T"
+"macro","1","TPNS","Peripheral nervous system","","Neoplasm, uncertain whether benign or malignant","Peripheral nervous system","X0100","M80001","","","","TCON",",PR_T,CT_T,TCON",",PR_T,CT_T,EP_T"
+"macro","1","TPPT","PREPUTIAL GLAND","","Neoplasm, uncertain whether benign or malignant","Preputial gland","76350","M80001","","","","TEPO",",PR_T,EP_T,KLOG",",PR_T,EP_T,EP_T"
+"macro","1","TPST","Prostate","","Neoplasm, uncertain whether benign or malignant","Prostate","77100","M80001","","","","TEPO",",PR_T,EP_T,KLOG",",PR_T,EP_T,EP_T"
+"macro","1","TPYL","Pylorus","","Neoplasm, uncertain whether benign or malignant","Pylorus","63700","M80001","","","","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,EP_T,T_GI"
+"macro","1","TRD","Thyroid gland","","Morphology unknown","Thyroid","96000","M00010","","","","O_NT","",""
+"macro","1","TSEC","Topography not assigned","","Neoplasm, metastatic","Secondary","00003","M80006","","","","TWEP","",",T_W_"
+"macro","1","TSGL","Salivary gland","","Neoplasm, uncertain whether benign or malignant","Salivary gland","55000","M80001","","","","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,T_GI"
+"macro","1","TSKN","Skin","","Neoplasm, uncertain whether benign or malignant","Skin","01000","M80001","","","","TEPO",",PR_T,EP_T,KLOG",",PR_T,EP_T"
+"macro","1","TSMV","Seminal vesicle","","Neoplasm, uncertain whether benign or malignant","Seminal vesicle","77500","M80001","","","","TTA_",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T"
+"macro","1","TSPL","Spleen","","Neoplasm, uncertain whether benign or malignant","Spleen","07000","M80001","","","","TCON",",PR_T,CT_T,TCON",",PR_T,CT_T"
+"macro","1","TSTO","Stomach","","Neoplasm, uncertain whether benign or malignant","Stomach","63000","M80001","","","","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,T_GI"
+"macro","1","TTGE","Tongue","","Neoplasm, uncertain whether benign or malignant","Tongue","53000","M80001","","","","TGI_",",PR_T,EP_T,KLOG",",PR_T,EP_T,T_GI"
+"macro","1","TTRD","Thyroid gland","","Neoplasm, uncertain whether benign or malignant","Thyroid","96000","M80001","","","","TTHY",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T"
+"macro","1","TTST","Testis","","Neoplasm, uncertain whether benign or malignant","Testis","78000","M80001","","","","TTA_",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T"
+"macro","1","TTYG","Topography, multiple sites","","","Thymic lymphoma, generalized","00020","MYY953","","","","LR_T",",PR_T,CT_T,LR_T",",PR_T,CT_T,LR_T"
+"macro","1","TTYL","Topography not assigned","","","Thymic lymphoma, localized","00003","MYY953","","","","LR_T",",PR_T,CT_T,LR_T",",PR_T,CT_T,LR_T"
+"macro","1","TUTE","Uterus","","Neoplasm, uncertain whether benign or malignant","Uterus","82000","M80001","","","","TUTE",",PR_T,EP_T,MAPU,ENDO",",PR_T,EP_T"
+"macro","1","TVAG","Vagina","","Neoplasm, uncertain whether benign or malignant","Vagina","81000","M80001","","","","TEPO",",PR_T,EP_T,KLOG",",PR_T,EP_T"
+"macro","1","TVAS","Blood vessel","","Neoplasm, uncertain whether benign or malignant","Vascular","40000","M80001","","","","TVAS",",PR_T,CT_T,TVAS",",PR_T,CT_T"
+"macro","1","TWI","Whole body","","","Twister","00010","DX580","","","","O_NT","",""
+"macro","1","TYP","Cecum","","Inflammation, acute","Typhlitis","67100","M41000","","","","O_NT","",""
+"macro","1","ULC","Topography not assigned","","Ulcer","Ulcer","00003","M38000","","","","O_NT","",""
+"macro","1","UTE","Uterus","","Morphology unknown","Uterus","82000","M00010","","","","O_NT","",""
+"macro","1","VAG","Vagina","","Morphology unknown","Vagina","81000","M00010","","","","O_NT","",""
+"macro","1","VOL","Intestine","","Volvulus","Volvulus","50500","M34220","","","","O_NT","",""
+"group","","0_NT","","","Other nontumor diseases","","","","","","","","",""
+"group","","CDU ","","","Cause of death undetermined","","","","","","","","",""
+"group","","CT_T","","","Primary connective tissue tumors","","","","","","","","",""
+"group","","ENDO","","","Mammary gland, adrenal gland, pituitary gland, thyroid gland, uterine, testicular, seminal vesicle, and Harderian gland tumors","","","","","","","","",""
+"group","","EP_T","","","Primary epithelial tumors excluding ovarian tumors","","","","","","","","",""
+"group","","KLOG","","","Kidney, liver, gastrointestinal system, and other tumors","","","","","","","","",""
+"group","","LR_T","","","Lymphoreticular tumors","","","","","","","","",""
+"group","","MAMY","","","Amyloidosis","","","","","","","","",""
+"group","","MAPU","","","Mammary gland, adrenal gland, pituitary gland, thyroid gland, uterine, testicular, and seminal vesicle tumors","","","","","","","","",""
+"group","","MCRD","","","Renal diseases","","","","","","","","",""
+"group","","MCVD","","","Cardiovascular diseases","","","","","","","","",""
+"group","","MHEP","","","Liver diseases","","","","","","","","",""
+"group","","MOCY","","","Ovarian cyst","","","","","","","","",""
+"group","","MPNU","","","Pulmonary diseases","","","","","","","","",""
+"group","","PR_T","","","Primary tumors","","","","","","","","",""
+"group","","T_FO","","","All fibromas","","","","","","","","",""
+"group","","T_FS","","","Fibroma, fibrosarcoma, undifferentiated sarcoma, any site","","","","","","","","",""
+"group","","T_GI","","","Gastrointestinal tract tumors","","","","","","","","",""
+"group","","T_VO","","","Hemangioma, any site","","","","","","","","",""
+"group","","T_VS","","","Angiosarcoma, any site","","","","","","","","",""
+"group","","T_W_","","","A l l metastatic tumors (secondaries)","","","","","","","","",""
+"group","","T_WB","","","Metastases from bone tumor to any site","","","","","","","","",""
+"group","","T_WG","","","Secondary tumors, any site, origin Harderian gland","","","","","","","","",""
+"group","","T_WK","","","Metastases from kidney tumor to any site","","","","","","","","",""
+"group","","T_WR","","","Secondary tumors, any site, origin lung","","","","","","","","",""
+"group","","TAC_","","","Adrenal cortical tumors","","","","","","","","",""
+"group","","TADN","","","Respiratory system tumors","","","","","","","","",""
+"group","","TADR","","","A l l adrenal tumors","","","","","","","","",""
+"group","","TAM_","","","Adrenal medullary tumors","","","","","","","","",""
+"group","","TBON","","","Bone tumors","","","","","","","","",""
+"group","","TCAR","","","A l l carcinomas","","","","","","","","",""
+"group","","TCON","","","Connective tissue tumors, other than lymphoreticular and vascular tumors","","","","","","","","",""
+"group","","TCOT","","","A l l other primary connective tissue tumors","","","","","","","","",""
+"group","","TEPO","","","Skin and other epithelial tumors","","","","","","","","",""
+"group","","TFSA","","","All fibrosarcomas","","","","","","","","",""
+"group","","TGA_","","","Harderian gland tumors","","","","","","","","",""
+"group","","TGI_","","","Gastrointestinal tract tumors","","","","","","","","",""
+"group","","THA_","","","Liver, hepatocellular tumors","","","","","","","","",""
+"group","","THC_","","","Liver, bile duct tumors","","","","","","","","",""
+"group","","TK__","","","Kidney tumors","","","","","","","","",""
+"group","","TKID","","","Kidney and urinary bladder tumors","","","","","","","","",""
+"group","","TKW_","","","Metastases from any site to kidney","","","","","","","","",""
+"group","","TLHS","","","Histiocytic lymphoma","","","","","","","","",""
+"group","","TLIV","","","Liver and gallbladder tumors","","","","","","","","",""
+"group","","TLLE","","","Lymphocytic leukemia","","","","","","","","",""
+"group","","TLLL","","","Lymphocytic-lymphoblastic leukemia","","","","","","","","",""
+"group","","TLLS","","","Lymphocytic-lymphoblastic lymphoma","","","","","","","","",""
+"group","","TLOT","","","A l l other lymphoreticular tumors","","","","","","","","",""
+"group","","TLRC","","","Reticulum cell sarcoma","","","","","","","","",""
+"group","","TLSA","","","Lymphosarcoma","","","","","","","","",""
+"group","","TLUS","","","Unclassified lymphoma","","","","","","","","",""
+"group","","TLXS","","","Mixed histiocytic-lymphocytic lymphoma","","","","","","","","",""
+"group","","TMAM","","","Mammary gland tumors","","","","","","","","",""
+"group","","TMGL","","","Mammary gland tumors","","","","","","","","",""
+"group","","TOGC","","","Granulosa cell tumor, ovary","","","","","","","","",""
+"group","","TOOT","","","A l l other ovarian tumors","","","","","","","","",""
+"group","","TOTA","","","Tubular adenoma, ovary","","","","","","","","",""
+"group","","TOTO","","","Luetoma (thecoma), ovary","","","","","","","","",""
+"group","","TOVE","","","Ovarian tumors","","","","","","","","",""
+"group","","TPIT","","","Pituitary gland tumors","","","","","","","","",""
+"group","","TRAA","","","Alveologenic adenoma","","","","","","","","",""
+"group","","TRAC","","","Alveologenic adenocarcinoma","","","","","","","","",""
+"group","","TRW_","","","Metastases from any site to lung","","","","","","","","",""
+"group","","TSAR","","","A l l sarcomas","","","","","","","","",""
+"group","","TTA_","","","Testis and seminal vesicle tumors","","","","","","","","",""
+"group","","TTHY","","","Thyroid gland tumors","","","","","","","","",""
+"group","","TUTE","","","Uterine tumors","","","","","","","","",""
+"group","","TVAS","","","Vascular tumors","","","","","","","","",""
+"group","","TWCN","","","Secondary tumors, any site, origin connective tissue tumor","","","","","","","","",""
+"group","","TWEP","","","A l l other secondary tumors, any site","","","","","","","","",""
