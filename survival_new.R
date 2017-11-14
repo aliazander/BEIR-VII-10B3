@@ -220,7 +220,7 @@ ggplot(h1)+ point1 + point2 + point3 + point4 + point5 +
       point6 + point7 + point8 + point9+theme
 ggsave("Bens-figs/graph1-survival-inset.tiff",
        dpi = 600, height = 9, width = 14.5, units = "in")
-
+print("hi")
 
 ############### individual survival graphs #########################################
 #graph 2
